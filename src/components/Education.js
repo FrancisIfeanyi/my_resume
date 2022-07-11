@@ -28,6 +28,22 @@ import {  HashLink as Link } from 'react-router-hash-link';
                                         </Link>
                                     </td>
                                 </tr>
+                                 <tr>
+                                    <td>Google Android Development</td>
+                                    <td>Nov 2020</td>
+                                    <td><Link to= "#" className="btn blue lighten-2">
+                                        View
+                                        </Link>
+                                    </td>
+                                </tr>
+                                 <tr>
+                                    <td>Mobile App Development</td>
+                                    <td>Dec 2022</td>
+                                    <td><Link to= "#" className="btn blue lighten-2">
+                                        View
+                                        </Link>
+                                    </td>
+                                </tr>
                             </tbody>
                         </table>
                         

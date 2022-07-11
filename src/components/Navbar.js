@@ -5,7 +5,7 @@ import {HashLink as Link} from 'react-router-hash-link';
     render() {
         return(
             <>
-                <nav className="light-purple darken-2">
+                <nav className="light-green darken-2">
                     <div className="container">
                      <div className="nav-wrapper">
                         <Link to='/' className='brand-logo'>
@@ -44,7 +44,7 @@ import {HashLink as Link} from 'react-router-hash-link';
                      </div>
                 </div>
             </nav> 
-             <ul className='sidenav' id="siad-nav">
+             <ul className='sidenav' id="side-nav">
                 <li>
                      <Link to="/">
                     <i className="fas fa-home"></i> Home

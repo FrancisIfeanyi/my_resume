@@ -1,4 +1,12 @@
+.fas {
+  font-size: 10px;
+}
 
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
 
 .App {
   text-align: center;

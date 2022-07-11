@@ -25,7 +25,7 @@ export default class Skills extends Component {
                             </div>
                         </div>
                          <div className="col s6">
-                            <p>HTML</p>
+                            <p>REACT NATIVE</p>
                             <div className="progress grey lighten-1">
                                 <div className="determinate blue" style={{ width: '89%'}}>
 

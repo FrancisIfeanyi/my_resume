@@ -24,7 +24,7 @@ export default class Experience extends Component {
                                         functional knowledge of HTML, CSS and Javascript for
                                          building responsive websites. 
                                         I have worked with SLOT SYSTEMS LTD 
-                                        in capacity of Software Engineer/ TEchnical department.
+                                        in capacity of Software Engineer/ Technical department.
                                     </p>
                                 </blockquote>
                             </div>

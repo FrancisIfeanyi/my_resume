@@ -9,7 +9,7 @@ export default class About extends Component {
                         <h6 className='mt-bottom'>
                             <strong>ABOUT ME</strong>
                         </h6>
-                        <p className="azure brown-text">
+                        <p className="azure blue-text">
                         I am a focused achiever that has the tenacity to 
                         work on inspiring projects with the 
                         hope of being the best team-player in order 
